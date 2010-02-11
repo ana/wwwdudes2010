@@ -8,6 +8,10 @@ body {
 	font-family:Verdana, Arial, Helvetica, sans-serif;
 }
 
+img {
+    border:0px;
+}
+
 #main {
 	width:750px;
 	color:#666666;
