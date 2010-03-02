@@ -13,7 +13,7 @@ img {
 }
 
 #main {
-	width:750px;
+	width:780px;
 	color:#666666;
 	text-align:center;
 	margin:0 auto;
@@ -23,7 +23,7 @@ img {
 }
 
 #header_wrapper, #nav_wrapper, #content_wrapper {
-	width:765px;
+	width:785px;
 }
 
 /* top right breadcrumbs */
@@ -45,7 +45,7 @@ img {
 /* left navigation area */
 #content_left {
 	float:left;
-	width:145px;
+	width:150px;
 	line-height:135%;
 	padding:5px;
 	margin:0 0 10px 0;
@@ -106,7 +106,7 @@ img {
 	background-color:#FFFFFF;
 	text-align:left;
 	float:right;
-	width:590px;
+	width:615px;
 }
 #content p {
 	padding:0;
